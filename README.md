@@ -1,2 +1,2 @@
 # testGit
-sample
+sample repo
